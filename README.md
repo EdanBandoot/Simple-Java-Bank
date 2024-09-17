@@ -1,2 +1,2 @@
        
-  List of future changes in the commits of bank.java
+  List of future changes in the comments of bank.java
